@@ -13,3 +13,19 @@
     height: 700px;
 
 }
+
+.navbar{
+    background-color: #cfeef1f3;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.navbar a{
+    color: rgb(134, 30, 30);
+    font-size: 1.4rem;
+    text-decoration: none;
+    margin-right: 20px;
+}
