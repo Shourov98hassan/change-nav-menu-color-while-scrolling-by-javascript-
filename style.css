@@ -29,3 +29,13 @@
     text-decoration: none;
     margin-right: 20px;
 }
+
+
+.after-scroll a{
+    background-color:black;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+
